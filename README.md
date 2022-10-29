@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parseIntJose
 - 👀 I’m interested in progamming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C#
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me in Github 
 
